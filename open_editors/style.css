@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+  
+    /* Браузер сначала попробует найти шрифт локально */
+    src: local("Roboto"),
+
+         url("../uber/fonts/") format("woff");
